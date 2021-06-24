@@ -19,7 +19,7 @@ description: Ping pong!
 
 ## Example:
 
-![](../.gitbook/assets/unnamed.png)
+![](../../.gitbook/assets/unnamed.png)
 
 ## code
 

@@ -4,11 +4,9 @@
 
 ## bot
 
+* [commands](bot/commands-1/README.md)
+  * [ping](bot/commands-1/ping.md)
 * [intro](bot/intro.md)
-
-## commands
-
-* [ping](commands/ping.md)
 
 ---
 
