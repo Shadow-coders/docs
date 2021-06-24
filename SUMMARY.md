@@ -6,3 +6,11 @@
 
 * [intro](bot/intro.md)
 
+## commands
+
+* [ping](commands/ping.md)
+
+---
+
+* [Site](https://shadow-bot.dev)
+
